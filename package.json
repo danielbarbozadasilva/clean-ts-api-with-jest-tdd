@@ -1,0 +1,24 @@
+{
+  "name": "api-clean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbarbozadasilva/api-clean.git"
+  },
+  "author": "Daniel Barboza da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielbarbozadasilva/api-clean/issues"
+  },
+  "homepage": "https://github.com/danielbarbozadasilva/api-clean#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "git-commit-msg-linter": "^3.2.8",
+    "typescript": "^4.5.2"
+  }
+}
