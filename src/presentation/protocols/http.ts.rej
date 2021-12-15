@@ -1,0 +1,12 @@
+diff a/src/presentation/protocols/http.ts b/src/presentation/protocols/http.ts	(rejected hunks)
+@@ -2,2 +2,2 @@ export interface HttpResponse{
+-    statusCode: number,
+-    body:any
++  statusCode: number
++  body: any
+@@ -6,2 +6,2 @@ export interface HttpRequest{
+-    body?:any
+-}
+\ No newline at end of file
++  body?: any
++}
