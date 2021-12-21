@@ -1,2 +1,2 @@
 # Poll API 
-## Typescript poll API using TDD, Clean Architecture, Design Patterns and SOLID.
+## Poll API in NodeJs using Typescript, TDD, Clean Architecture, Design Patterns and SOLID.
